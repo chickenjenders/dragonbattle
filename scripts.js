@@ -282,6 +282,7 @@ function restart() {
 
 function easterEgg() {
   update(locations[7]);
+  image.src = "assets/easteregg.png";
 }
 
 function pickTwo() {
